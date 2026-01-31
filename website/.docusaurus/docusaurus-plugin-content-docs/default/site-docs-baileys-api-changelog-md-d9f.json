@@ -1,0 +1,29 @@
+{
+  "id": "baileys-api/changelog",
+  "title": "Changelog",
+  "description": "[1.0.0] - 2025-01-31",
+  "source": "@site/../docs/baileys-api/changelog.md",
+  "sourceDirName": "baileys-api",
+  "slug": "/baileys-api/changelog",
+  "permalink": "/docs/baileys-api/changelog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/baileys-api/changelog.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "slug": "changelog",
+    "title": "Changelog",
+    "sidebar_position": 6
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/baileys-api/troubleshooting"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/laravel/intro"
+  }
+}

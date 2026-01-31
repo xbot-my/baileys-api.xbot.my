@@ -1,0 +1,23 @@
+{
+  "id": "manager/features",
+  "title": "Features",
+  "description": "Dashboard",
+  "source": "@site/../docs/manager/features.md",
+  "sourceDirName": "manager",
+  "slug": "/manager/features",
+  "permalink": "/docs/manager/features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/manager/features.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "features",
+    "title": "Features"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Deployment",
+    "permalink": "/docs/manager/deployment"
+  }
+}

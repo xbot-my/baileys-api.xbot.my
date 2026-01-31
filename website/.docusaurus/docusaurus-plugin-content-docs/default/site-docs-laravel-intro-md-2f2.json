@@ -1,0 +1,27 @@
+{
+  "id": "laravel/intro",
+  "title": "Introduction",
+  "description": "Laravel SDK and Service Provider for Baileys API integration.",
+  "source": "@site/../docs/laravel/intro.md",
+  "sourceDirName": "laravel",
+  "slug": "/laravel/intro",
+  "permalink": "/docs/laravel/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/laravel/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "intro",
+    "title": "Introduction"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/docs/baileys-api/changelog"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/laravel/intro"
+  }
+}

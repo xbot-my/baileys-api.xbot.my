@@ -1,0 +1,29 @@
+{
+  "id": "baileys-api/guides/usage",
+  "title": "Usage Examples",
+  "description": "Authentication",
+  "source": "@site/../docs/baileys-api/guides/usage.md",
+  "sourceDirName": "baileys-api/guides",
+  "slug": "/baileys-api/guides/usage",
+  "permalink": "/docs/baileys-api/guides/usage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/baileys-api/guides/usage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "slug": "usage",
+    "title": "Usage Examples",
+    "sidebar_position": 2
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Deployment",
+    "permalink": "/docs/baileys-api/guides/deployment"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/docs/baileys-api/guides/configuration"
+  }
+}

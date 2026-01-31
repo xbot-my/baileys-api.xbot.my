@@ -1,0 +1,25 @@
+{
+  "id": "baileys-api/intro",
+  "title": "Introduction",
+  "description": "A REST API service for integrating WhatsApp functionality into applications. Built with NestJS and Baileys.",
+  "source": "@site/../docs/baileys-api/intro.md",
+  "sourceDirName": "baileys-api",
+  "slug": "/baileys-api/intro",
+  "permalink": "/docs/baileys-api/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/baileys-api/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "intro",
+    "title": "Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/docs/baileys-api/quick-start"
+  }
+}

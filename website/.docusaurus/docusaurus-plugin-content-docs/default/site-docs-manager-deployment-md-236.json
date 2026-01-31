@@ -1,0 +1,27 @@
+{
+  "id": "manager/deployment",
+  "title": "Deployment",
+  "description": "Prerequisites",
+  "source": "@site/../docs/manager/deployment.md",
+  "sourceDirName": "manager",
+  "slug": "/manager/deployment",
+  "permalink": "/docs/manager/deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/manager/deployment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "deployment",
+    "title": "Deployment"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/manager/intro"
+  },
+  "next": {
+    "title": "Features",
+    "permalink": "/docs/manager/features"
+  }
+}

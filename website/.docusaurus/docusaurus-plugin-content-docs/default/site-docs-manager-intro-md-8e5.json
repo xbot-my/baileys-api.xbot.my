@@ -1,0 +1,27 @@
+{
+  "id": "manager/intro",
+  "title": "Introduction",
+  "description": "Web-based management dashboard for Baileys API.",
+  "source": "@site/../docs/manager/intro.md",
+  "sourceDirName": "manager",
+  "slug": "/manager/intro",
+  "permalink": "/docs/manager/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/manager/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "intro",
+    "title": "Introduction"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Usage",
+    "permalink": "/docs/laravel/usage"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/manager/intro"
+  }
+}

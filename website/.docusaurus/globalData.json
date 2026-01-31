@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "baileys-api/intro",
+          "docs": [
+            {
+              "id": "baileys-api/changelog",
+              "path": "/docs/baileys-api/changelog",
+              "sidebar": "docs"
+            },
+            {
+              "id": "baileys-api/guides/configuration",
+              "path": "/docs/baileys-api/guides/configuration",
+              "sidebar": "docs"
+            },
+            {
+              "id": "baileys-api/guides/deployment",
+              "path": "/docs/baileys-api/guides/deployment",
+              "sidebar": "docs"
+            },
+            {
+              "id": "baileys-api/guides/usage",
+              "path": "/docs/baileys-api/guides/usage",
+              "sidebar": "docs"
+            },
+            {
+              "id": "baileys-api/guides/websocket",
+              "path": "/docs/baileys-api/guides/websocket",
+              "sidebar": "docs"
+            },
+            {
+              "id": "baileys-api/intro",
+              "path": "/docs/baileys-api/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "baileys-api/quick-start",
+              "path": "/docs/baileys-api/quick-start",
+              "sidebar": "docs"
+            },
+            {
+              "id": "baileys-api/troubleshooting",
+              "path": "/docs/baileys-api/troubleshooting",
+              "sidebar": "docs"
+            },
+            {
+              "id": "laravel/installation",
+              "path": "/docs/laravel/installation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "laravel/intro",
+              "path": "/docs/laravel/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "laravel/usage",
+              "path": "/docs/laravel/usage",
+              "sidebar": "docs"
+            },
+            {
+              "id": "manager/deployment",
+              "path": "/docs/manager/deployment",
+              "sidebar": "docs"
+            },
+            {
+              "id": "manager/features",
+              "path": "/docs/manager/features",
+              "sidebar": "docs"
+            },
+            {
+              "id": "manager/intro",
+              "path": "/docs/manager/intro",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/baileys-api/intro",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

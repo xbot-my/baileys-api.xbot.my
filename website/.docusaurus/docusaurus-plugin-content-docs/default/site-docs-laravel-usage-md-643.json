@@ -1,0 +1,27 @@
+{
+  "id": "laravel/usage",
+  "title": "Usage",
+  "description": "Basic Usage",
+  "source": "@site/../docs/laravel/usage.md",
+  "sourceDirName": "laravel",
+  "slug": "/laravel/usage",
+  "permalink": "/docs/laravel/usage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/laravel/usage.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "usage",
+    "title": "Usage"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/laravel/installation"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/manager/intro"
+  }
+}

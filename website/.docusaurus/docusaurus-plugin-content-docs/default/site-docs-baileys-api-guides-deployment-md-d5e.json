@@ -1,0 +1,29 @@
+{
+  "id": "baileys-api/guides/deployment",
+  "title": "Deployment",
+  "description": "Docker containerized deployment is the only supported method.",
+  "source": "@site/../docs/baileys-api/guides/deployment.md",
+  "sourceDirName": "baileys-api/guides",
+  "slug": "/baileys-api/guides/deployment",
+  "permalink": "/docs/baileys-api/guides/deployment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/baileys-api/guides/deployment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "deployment",
+    "title": "Deployment",
+    "sidebar_position": 1
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/docs/baileys-api/quick-start"
+  },
+  "next": {
+    "title": "Usage Examples",
+    "permalink": "/docs/baileys-api/guides/usage"
+  }
+}

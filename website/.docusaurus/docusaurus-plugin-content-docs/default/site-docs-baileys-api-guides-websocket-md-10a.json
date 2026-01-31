@@ -1,0 +1,29 @@
+{
+  "id": "baileys-api/guides/websocket",
+  "title": "WebSocket Events",
+  "description": "Connect to the WebSocket at: /api/events",
+  "source": "@site/../docs/baileys-api/guides/websocket.md",
+  "sourceDirName": "baileys-api/guides",
+  "slug": "/baileys-api/guides/websocket",
+  "permalink": "/docs/baileys-api/guides/websocket",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/baileys-api/guides/websocket.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "slug": "websocket",
+    "title": "WebSocket Events",
+    "sidebar_position": 4
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/baileys-api/guides/configuration"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/baileys-api/troubleshooting"
+  }
+}

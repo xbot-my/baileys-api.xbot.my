@@ -1,0 +1,29 @@
+{
+  "id": "baileys-api/guides/configuration",
+  "title": "Configuration",
+  "description": "Environment Variables",
+  "source": "@site/../docs/baileys-api/guides/configuration.md",
+  "sourceDirName": "baileys-api/guides",
+  "slug": "/baileys-api/guides/configuration",
+  "permalink": "/docs/baileys-api/guides/configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/baileys-api/guides/configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "slug": "configuration",
+    "title": "Configuration",
+    "sidebar_position": 3
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Usage Examples",
+    "permalink": "/docs/baileys-api/guides/usage"
+  },
+  "next": {
+    "title": "WebSocket Events",
+    "permalink": "/docs/baileys-api/guides/websocket"
+  }
+}

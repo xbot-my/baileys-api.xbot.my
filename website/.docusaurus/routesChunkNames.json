@@ -1,0 +1,78 @@
+{
+  "/docs-cf4": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/docs-c7d": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
+  },
+  "/docs-3b8": {
+    "__comp": "a94703ab"
+  },
+  "/docs/baileys-api/changelog-5e3": {
+    "__comp": "17896441",
+    "content": "d9f23096"
+  },
+  "/docs/baileys-api/guides/configuration-dc5": {
+    "__comp": "17896441",
+    "content": "87a9391f"
+  },
+  "/docs/baileys-api/guides/deployment-bbf": {
+    "__comp": "17896441",
+    "content": "d5e08880"
+  },
+  "/docs/baileys-api/guides/usage-7b3": {
+    "__comp": "17896441",
+    "content": "7ff6be02"
+  },
+  "/docs/baileys-api/guides/websocket-20c": {
+    "__comp": "17896441",
+    "content": "10a08404"
+  },
+  "/docs/baileys-api/intro-b18": {
+    "__comp": "17896441",
+    "content": "453f7837"
+  },
+  "/docs/baileys-api/quick-start-367": {
+    "__comp": "17896441",
+    "content": "d9329909"
+  },
+  "/docs/baileys-api/troubleshooting-434": {
+    "__comp": "17896441",
+    "content": "2bcdcfc3"
+  },
+  "/docs/laravel/installation-67e": {
+    "__comp": "17896441",
+    "content": "76de12ae"
+  },
+  "/docs/laravel/intro-961": {
+    "__comp": "17896441",
+    "content": "2f2b434c"
+  },
+  "/docs/laravel/usage-841": {
+    "__comp": "17896441",
+    "content": "643b2818"
+  },
+  "/docs/manager/deployment-944": {
+    "__comp": "17896441",
+    "content": "236e40ea"
+  },
+  "/docs/manager/features-2cc": {
+    "__comp": "17896441",
+    "content": "2afd23a7"
+  },
+  "/docs/manager/intro-079": {
+    "__comp": "17896441",
+    "content": "8e56d741"
+  },
+  "/-070": {
+    "__comp": "9dd8a0d2",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

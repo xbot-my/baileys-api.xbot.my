@@ -1,0 +1,29 @@
+{
+  "id": "baileys-api/troubleshooting",
+  "title": "Troubleshooting",
+  "description": "QR Code Not Displaying",
+  "source": "@site/../docs/baileys-api/troubleshooting.md",
+  "sourceDirName": "baileys-api",
+  "slug": "/baileys-api/troubleshooting",
+  "permalink": "/docs/baileys-api/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/baileys-api/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "slug": "troubleshooting",
+    "title": "Troubleshooting",
+    "sidebar_position": 5
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "WebSocket Events",
+    "permalink": "/docs/baileys-api/guides/websocket"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/docs/baileys-api/changelog"
+  }
+}

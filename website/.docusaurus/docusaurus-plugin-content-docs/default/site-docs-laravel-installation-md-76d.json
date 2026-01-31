@@ -1,0 +1,27 @@
+{
+  "id": "laravel/installation",
+  "title": "Installation",
+  "description": "Requirements",
+  "source": "@site/../docs/laravel/installation.md",
+  "sourceDirName": "laravel",
+  "slug": "/laravel/installation",
+  "permalink": "/docs/laravel/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/xbot-my/baileys-api/edit/main/../docs/laravel/installation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "installation",
+    "title": "Installation"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/laravel/intro"
+  },
+  "next": {
+    "title": "Usage",
+    "permalink": "/docs/laravel/usage"
+  }
+}
